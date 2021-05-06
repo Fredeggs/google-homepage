@@ -1,0 +1,1 @@
+This is an introductory project where I will be recreating the Google homepage or the Google Search results.
